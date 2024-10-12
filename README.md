@@ -17,7 +17,7 @@ The Weather App is a Flutter-based application that provides users with real-tim
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather_app.git
+   git clone https://github.com/yourusername/Weather_app.git
 2. Navigate to the project directory
    ```bash
    cd Weather_app
@@ -27,3 +27,10 @@ The Weather App is a Flutter-based application that provides users with real-tim
 4. Run the app
    ```bash
    flutter run
+## API Key
+To use the weather data, sign up at OpenWeatherMap and replace the API key in weather_service.dart.
+
+## Acknowledgements
+- OpenWeatherMap for providing the weather data.
+- Lottie for the animations.
+
