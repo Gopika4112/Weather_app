@@ -28,7 +28,12 @@ The Weather App is a Flutter-based application that provides users with real-tim
    ```bash
    flutter run
 ## API Key
-To use the weather data, sign up at OpenWeatherMap and replace the API key in weather_service.dart.
+To use this application, you need to obtain your own API key from OpenWeatherMap:
+
+1. Go to [OpenWeatherMap](https://openweathermap.org/).
+2. Sign up for a free account.
+3. Navigate to the API section and generate your API key.
+4. Replace `YOUR_API_KEY_HERE` in weather_page.dart with your actual API key.
 
 ## Acknowledgements
 - OpenWeatherMap for providing the weather data.
