@@ -27,6 +27,7 @@ The Weather App is a Flutter-based application that provides users with real-tim
 4. Run the app
    ```bash
    flutter run
+   
 ## API Key
 To use this application, you need to obtain your own API key from OpenWeatherMap:
 
