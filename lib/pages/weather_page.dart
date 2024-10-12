@@ -12,7 +12,7 @@ class WeatherPage extends StatefulWidget {
 
 class _WeatherPageState extends State<WeatherPage> {
   //api key
-  final _weatherService = WeatherService('41e7eb3c83a29a8d6691a4526f93e0e8');
+  final _weatherService = WeatherService('YOUR_API_KEY_HERE');
   Weather? _weather;
   final TextEditingController _cityController = TextEditingController();
   bool _isLoading = false;
