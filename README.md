@@ -1,4 +1,4 @@
-# Weather_app
+# Weather App
 
 ## Description
 The Weather App is a Flutter-based application that provides users with real-time weather information based on their location or a specified city. The app features a user-friendly interface, interactive animations, and accurate weather data powered by the OpenWeatherMap API.
