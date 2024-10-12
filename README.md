@@ -10,11 +10,20 @@ The Weather App is a Flutter-based application that provides users with real-tim
 - **User Input**: Allows users to search for weather by city name.
 
 ## Screenshots
-![Current city](screenshots/current_city.png)
-![City 2](screenshots/sunny.png)
-![City 3](screenshots/cloudy.png)
+<img src="screenshots/current_city.png" alt="Current City" width="300" />
+<img src="screenshots/sunny.png" alt="City 2" width="300" />
+<img src="screenshots/cloudy.png" alt="City 3" width="300" />
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather_app.git
+2. Navigate to the project directory
+   ```bash
+   cd Weather_app
+3. Install dependencies
+   ```bash
+   flutter pub get
+4. Run the app
+   ```bash
+   flutter run
